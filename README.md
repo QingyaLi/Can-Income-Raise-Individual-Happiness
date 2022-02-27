@@ -1,1 +1,1 @@
-This report replicate the paper "The Effects of Income Transparency on Well-Being: Evidence from a Natural Experiment"
+This report replicates the paper "The Effects of Income Transparency on Well-Being: Evidence from a Natural Experiment"
